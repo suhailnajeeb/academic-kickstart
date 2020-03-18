@@ -93,7 +93,7 @@ address = {street = "A/2, Jahurul Islam Avenue, Jahurul Islam City", city = "Dha
 coordinates = {latitude = "23.7684", longitude = "90.4255"}
 
 # Directions for visitors to locate you.
-directions = "Enter the main Building, take the left to Block C, take the lift to Room # 458"
+directions = "Enter the main building, take the left to Block C, Take the lift to Room #458 on the 3rd floor."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -104,7 +104,7 @@ appointment_url = "https://calendly.com/suhailnajeeb"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = `[]`
+contact_links = []
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
