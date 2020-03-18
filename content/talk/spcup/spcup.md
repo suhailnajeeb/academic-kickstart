@@ -54,3 +54,4 @@ caption = "My caption :smile:"
 
 +++
 
+<img src = "/img/spcup.jpg">
