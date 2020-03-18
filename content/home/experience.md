@@ -42,34 +42,11 @@ date_format = "Jan 2006"
   company = "Satyen Bose Science Club, BUET"
   company_url = "https://www.linkedin.com/company/satyen-bose-science-club-buet/"
   location = "Dhaka, Bangladesh"
-  date_start = "2017-15-11"
-  date_end = "2018-12-05"
+  date_start = "2017-11-15"
+  date_end = "2018-05-12"
   description = """
   Course on Python & Data Science
   """
 
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
