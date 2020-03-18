@@ -1,7 +1,7 @@
 ---
 title: This is a test Post
 featured: false
-authors: Suhail Najeeb
+authors: admin
 date: 2020-18-03
 ---
 
