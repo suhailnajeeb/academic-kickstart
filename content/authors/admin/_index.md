@@ -15,7 +15,7 @@ role: Lecturer
 # Organizations/Affiliations
 organizations:
 - name: East West University
-  url: "https://www.ewubd.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed computer vision, data science & deep learning.
@@ -47,7 +47,7 @@ social:
   link: 'mailto:suhailnajeeb19@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/najeeb_suhail
+  link: https://twitter.com/najeeb.suhail
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=rz5TCswAAAAJ&hl=en
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Suhail Najeeb is a Lecturer at the Department of Electronics and Communications Engineering, East West University. He graduated in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology. For the last three years, he has been involved in several research projects and has taken part in different international competitions like the IEEE Video and Image Processing (VIP) Cup, IEEE Signal Processing (SP) Cup, etc. As a member of Team Markovians, he participated in the IEEE VIP Cup 2018 held in Athens, Greece where his team became the Champion team in the world. The challenge involved building a Lung Tumor Detection and Segmentation Pipeline for medical applications. His team also secured the 2nd runner-up position for the Traffic Sign Detection and Classification challenge of the IEEE VIP Cup 2017, held in Beijing, China. Besides taking part in international competitions, he is also involved in active research. He has presented a number of publications in reputed international conferences and is currently involved in research collaboration with mHealth Research Laboratory of the Department of Biomedical Engineering, BUET. He has also instructed several workshops on Data Science organized by Satyen Bose Science club, BUET. His current research focus is on Computer Vision and its applications in Biomedical Image Processing. He specializes in Deep Learning and is also working on projects related to applications of Deep Learning in other domains, such as Speech Synthesis and Genomics. Before diving into the Signal Processing and Deep Learning arena, he had also been involved in research related to Hyperbolic Metamaterials while undertaking his final year undergraduate thesis.
+Hi! I'm Suhail Najeeb. Currently working as a lecturer at the Department of Electronics and Communications Engineering, East West University. I graduated in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology back in 2018. Currently I'm pursuing my MSc at the same institution as a part-time student besides my job. Although I'm a EEE graduate and also a lecturer, I have a huge interest in research projects related to Artificial Intelligence, Deep Learning & Computer Vision. 2017 marked the start of this interest, when I took part in the IEEE Video & Image Processing Cup 2017 and placed 2nd runner-up in the competition for Traffic Sign Detection & Classification under Challening Conditions. In 2018, was part of Team Markovians, who became the champions in the IEEE Video & Image Processing Cup 2018 for a lung tumor detection and segmentation pipeline. Since then, I have been involved in several research projects related to applications of Deep Learning in different Domains like Biomedical Signal Processing, Image Processing, Speech Synthesis and Genomics etc. 
