@@ -14,22 +14,60 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+#  description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "robot"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Machine Learning"
+#  description = "100%"  
   
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Deep Learning"
+#  description = "10%"
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Computer Vision"
+#  description = "10%"
+
+[[feature]]
+  icon = "sort-numeric-down"
+  icon_pack = "fas"
+  name = "Numpy"
+#  description = "10%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Pandas"
+#  description = "10%"
+
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Scikit-Learn"
+#  description = "10%"
+
+[[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Tensorflow"
+#  description = "10%"
+
+[[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Keras"
+#  description = "10%"
+
 
 +++
