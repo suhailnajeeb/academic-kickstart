@@ -55,6 +55,8 @@ Wait. What?  Who would have thought that the world of art and culture would ever
 
 AI has not stopped at artwork. [Google Magenta](https://magenta.tensorflow.org/welcome-to-magenta) is a great example to how AI might be used to create music. You won't believe that this is AI production when you listen this:
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/267107599&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 You can head to Redwan Nafi's [blog](http://redowannafi.weebly.com/project-magenta.html) to find out more . 
 
 AI enthusiasts didn’t like to keep any stone unturned. They have also tried to implement an AI capable of literary work. There are already a number of news portals based on AI to provide news updates on sports, weather, stock etc. based on real time data. However, to take this to another level, NYU graduate Ross Goodwin created an AI which produced a screenplay dubbed ‘Surprising’. The screenplay might seem pretty creepy.  But hey, its just a start. 
