@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Indoor Movement Prediction"
-summary: "Predicting user movements from temporal streams of RSS (Radio Signal Strength) measured between the nodes of a WSN (Wireless Sensor Network WSN)"
-authors: ["Redowan Delowar"]
-tags: ["timeseries", "machine-learning", "visualizaton"]
-categories: ["timeseries"]
-date: 2019-08-14T21:05:04+06:00
+title: "Traffic Sign Detection under Challenging Conditions"
+summary: "We propose a Traffic Sign Detection & Segmentation pipeline. A faster RCNN has been used to detect traffic signs from different challenged conditions. The challenging conditions are classified using an RCNN. With the help of Kalman filter and Lukas-Kanade tracker the detection process is improved. Finally, a Convolutional Neural Network (CNN) is used to classify the signs of the frames"
+authors: ["Shahruk Hossain", "Suhail Najeeb"]
+tags: ["traffic-sign-recognition", "frcnn", "cnn","deep-learning","computer-vision","video"]
+categories: ["computer-vision"]
+date: 2017-09-17
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/rednafi/indoor-movement-prediction"
+external_link: "https://github.com/suhailnajeeb/traffic-sign-detection-vip2017"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -23,11 +23,11 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com/rednafi
+  url: https://twitter.com/najeeb_suhail
   icon_pack: fab
   icon: twitter
 
-url_code: "https://github.com/rednafi/indoor-movement-prediction"
+url_code: "https://github.com/suhailnajeeb/traffic-sign-detection-vip2017"
 url_pdf: ""
 url_slides: ""
 url_video: ""
