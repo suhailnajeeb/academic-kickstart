@@ -93,7 +93,7 @@ address = {street = "A/2, Jahurul Islam Avenue, Jahurul Islam City", city = "Dha
 coordinates = {latitude = "23.7684", longitude = "90.4255"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter the main Building, take the left to Block C, take the lift to Room # 458"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
