@@ -10,8 +10,6 @@ date: 2016-13-08
 
 AI or Artificial Intelligence had been a buzz word of the twenty first century in its early days. However, somehow the world seemed to find more interesting stuff to buzz about. The likes of smart phones, tablets, thinner laptops and cool hardware, gaming, social networking platforms, virtual reality.. the list goes on. All of these had us busy and obsessed while the catch of doing something genuinely cool with AI seemed to be a far cry or not worth much, at least for the time being. However, as of late, it seems like the gorgeous butterfly, done with its [Metamorphosis](https://www.zmescience.com/ecology/animals-ecology/how-caterpillar-turn-butterfly-0534534/), is coming out of its cocoon. 
 
-![alttext] ("/corona.jpg")
-
 <img src="/img/ai-2016/metamorphosis.jpg" />
 
 ## AI
