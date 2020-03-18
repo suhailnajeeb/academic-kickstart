@@ -31,13 +31,19 @@ However, there were certain drawbacks to implement deep and neural nets. The alg
 
 The most interesting thing is that we are already using AI all around us. However, most of these may be termed as [ANI (artificial Narrow Intelligence), expert systems or weak AI](https://en.wikipedia.org/wiki/Weak_AI) – according to different perspectives. But they converge to the same idea - AI which has expertise in a certain field. The list of examples is countless. Starting from the Google searches we run everyday, the [anti-spam](https://en.wikipedia.org/wiki/Anti-spam_techniques) filters in our mail inbox, or the recommendations we get on YouTube - AI is vaguely present in our day to day lives and even on our handhelds. However, there are certain aspects of AI which I cannot help but mention.
 
+<img src = "/img/ai-2016/assistant.gif">
+
 ## Autonomous Cars
 
 Thanks to AI, autonomous cars are no more a thing of the future. Extensive research and experiment is already underway lead by giants like Google, Tesla, Apple etc. The [Google Self-Driving Car project](https://waymo.com/) has been around for a decent amount of time and we already know enough about it. The [Tesla Autopilot](https://www.tesla.com/presskit/autopilot) on the other hand is pretty new to the party, being around only since the late 2015. But the most interesting thing about Tesla Autopilot is that it learns driving as the users drive their vehicles. Note that we are speaking about the ‘users’, not any single user. The whole family of thousands of Tesla cars cruising across the US are connected to each other just like a single entity which enables them to learn at a spectacular pace. Tesla users reported dramatic improvements in the Autopilot system over weeks since the Autopilot system was first rolled out. Tesla Autopilot however is still in Beta stage and there have been reports of accidents putting the program in jeopardy. 
 
+<img src = "/img/ai-2016/autonomous.gif">
+
 ## AI and Scientific Research: The noble-prize winning experiment
 
 In 2001, three scientists Eric Cornell, Wolfgang Ketterle and Carl Weiman were jointly awarded the noble prize in physics for being able to create the [Bose-Einstein Condensate](https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate), an extremely rare state of matter which they were able to obtain by using precise lasers to nudge and bump atoms and reduce their movement to obtain a very still state. Lately, a group of scientists at the Australian National University decided to recreate this experiment from scratch, but this time using the help of an AI which would be given full control of all the lasers.  Astonishingly, the AI took barely an hour to achieve what the noble prize winning scientists took years of hard work. So it goes beyond any doubt how radical the role of AI might be in the field of scientific research. The application of AI for scientific research knows no limits. Medical science, modern physics, chemistry, astronomy, nuclear physics, nanotechnology.. there is simply no field that AI cannot help but contribute. 
+
+<img src = "/img/ai-2016/scientist.gif">
 
 ## AI in Healthcare, Business and Finance: IBM Watson
 
@@ -62,6 +68,8 @@ Most of the AIs we have talked about till now(except IBM Watson) were one way or
 Deepmind technologies was originally a British AI startup founded in September 2010. Later in 2014 it was acquired by google who renamed it to Google Deepmind. The company has been operating relentlessly since, to combine techniques of machine learning and systems neuroscience to build powerful general purpose learning algorithms.
 
 An event of late has taken AI researchers by aw, when Google’s general purpose Deepmind AI was able to beat the best human player in the traditional Chinese board game GO. The project termed as google [AlphaGo](https://deepmind.com/alpha-go) has to be seen as a major breakthrough in the world of machine learning since this is the first time in the history that a general purpose AI has been able to pull off a feat like this. Previously AIs like [IBM’s Watson](http://www.ibm.com/watson/) beat the best human chess players, but the Chinese board game GO is way more complex for a machine to [brute force](https://en.wikipedia.org/wiki/Brute-force_attack) all the possible combinations. Instead of the traditional approach, Deepmind uses a technique called [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning), which is powered by neural networks, to mimic the human brain. Deepmind only takes inputs through raw pixels and later processes them to find overlaying patterns and combinations. Initially, Deepmind was fed streams of GO games of amateur players playing each other in the game GO. By only watching these games Deepmind had learnt the basics to play GO but it was not particularly good at it. Later, the machine was tasked to play with itself for millions of times and through each game, it became better and better, learning from its own mistakes. This proves the idea that a machine is capable of learning on its own and solidifies the claim of general purpose AI.
+
+<img src = "/img/ai-2016/alphago.gif">
 
 ## Wrap Up
 
