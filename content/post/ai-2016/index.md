@@ -61,6 +61,8 @@ You can head to Redwan Nafi's [blog](http://redowannafi.weebly.com/project-magen
 
 AI enthusiasts didn’t like to keep any stone unturned. They have also tried to implement an AI capable of literary work. There are already a number of news portals based on AI to provide news updates on sports, weather, stock etc. based on real time data. However, to take this to another level, NYU graduate Ross Goodwin created an AI which produced a screenplay dubbed ‘Surprising’. The screenplay might seem pretty creepy.  But hey, its just a start. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LY7x2Ihqjmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 AI enthusiasts didn’t like to keep any stone unturned. They have also tried to implement an AI capable of literary work. There are already a number of news portals based on AI to provide news updates on sports, weather, stock etc. based on real time data. However, to take this to another level, NYU graduate Ross Goodwin created an AI which produced a screenplay dubbed ‘Surprising’. The screenplay might seem pretty creepy.  But hey, its just a start.  
 
 ## Google Deepmind : Talk of the town
