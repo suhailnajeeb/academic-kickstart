@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Traffic Sign Detection under Challenging Conditions"
-summary: "We propose a Traffic Sign Detection & Segmentation pipeline. A faster RCNN has been used to detect traffic signs from different challenged conditions. The challenging conditions are classified using an RCNN. With the help of Kalman filter and Lukas-Kanade tracker the detection process is improved. Finally, a Convolutional Neural Network (CNN) is used to classify the signs of the frames"
+title: "Lung Cancer Radiomics - Tumor Region Segmentation"
+summary: "We propose a pipeline for lung tumor detection and segmentation on the NSCLC Radiomics dataset. The pipeline utilized a hybrid-3d dilated convolutional neural network architecture for the segmentation task and won the IEEE VIP Cup 2018 challenge."
 authors: ["Shahruk Hossain", "Suhail Najeeb"]
-tags: ["traffic-sign-recognition", "frcnn", "cnn","deep-learning","computer-vision","video"]
+tags: ["lung-tumor-segmentation", "sgementation", "dilated-cnn","deep-learning","computer-vision","ct-scan"]
 categories: ["computer-vision"]
-date: 2017-09-17
+date: 2018-10-07
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/suhailnajeeb/traffic-sign-detection-vip2017"
+external_link: "https://github.com/suhailnajeeb/lungseg-vip2018"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,8 +27,8 @@ links:
   icon_pack: fab
   icon: twitter
 
-url_code: "https://github.com/suhailnajeeb/traffic-sign-detection-vip2017"
-url_pdf: "https://github.com/suhailnajeeb/traffic-sign-detection-vip2017/raw/master/Traffic%20Sign%20Detection%20under%20Challenging%20Conditions_Using%20Faster%20RCNN.pdf"
+url_code: "https://github.com/suhailnajeeb/lungseg-vip2018"
+url_pdf: "https://github.com/suhailnajeeb/lungseg-vip2018/raw/master/Paper/ICCASP%202019%20Paper.pdf"
 url_slides: ""
 url_video: ""
 
