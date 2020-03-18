@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lung Cancer Radiomics - Tumor Region Segmentation"
-summary: "We propose a pipeline for lung tumor detection and segmentation on the NSCLC Radiomics dataset. The pipeline utilized a hybrid-3d dilated convolutional neural network architecture for the segmentation task and won the IEEE VIP Cup 2018 challenge."
-authors: ["Shahruk Hossain", "Suhail Najeeb"]
-tags: ["lung-tumor-segmentation", "segmentation", "dilated-cnn","deep-learning","computer-vision","ct-scan"]
+title: "Cancer Classification from Single-Cell RNA Sequencing Data"
+summary: "Experimented the effectiveness of 1D Convolutional Neural Networks & 2D Dilated Convolutional Neural Networks on classifying diseases from the TCGA pan-cancer dataset. Our proposed methodology produced 95.6% accuracy over "
+authors: ["Suhail Najeeb","Shahruk Hossain"]
+tags: ["tcga", "rnaseq", "dilated-cnn","deep-learning","genomics"]
 categories: ["computer-vision"]
-date: 2018-10-07
+date: 2020-01-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/suhailnajeeb/lungseg-vip2018"
+external_link: "https://github.com/suhailnajeeb/tcga-cancer-predict"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,8 +27,8 @@ links:
   icon_pack: fab
   icon: twitter
 
-url_code: "https://github.com/suhailnajeeb/lungseg-vip2018"
-url_pdf: "https://github.com/suhailnajeeb/lungseg-vip2018/raw/master/Paper/ICCASP%202019%20Paper.pdf"
+url_code: "https://github.com/suhailnajeeb/tcga-cancer-predict"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
