@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = "Lung Cancer Radiomics - Tumor Region Segmentation"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Team Markovians"
+  organization_url = "http://www.2017.ieeeicip.org/Vipcup.html"
+  title = "**2nd Runner up**, IEEE VIP Cup 2017"
+  url = ""
+  certificate_url = "http://www.2017.ieeeicip.org/Vipcup.html"
+  date_start = "2017-09-17"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Traffic Sign Recognition under Challenging Conditions"
   
 [[item]]
   organization = "DataCamp"
