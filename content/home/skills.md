@@ -20,24 +20,6 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
 #  description = "90%"
-  
-[[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Machine Learning"
-#  description = "100%"  
-  
-[[feature]]
-  icon = "brain"
-  icon_pack = "fas"
-  name = "Deep Learning"
-#  description = "10%"
-
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Computer Vision"
-#  description = "10%"
 
 [[feature]]
   icon = "sort-numeric-down"
@@ -58,15 +40,33 @@ subtitle = ""
 #  description = "10%"
 
 [[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Keras"
+#  description = "10%"
+
+[[feature]]
   icon = "cubes"
   icon_pack = "fas"
   name = "Tensorflow"
 #  description = "10%"
 
 [[feature]]
-  icon = "flask"
+  icon = "robot"
   icon_pack = "fas"
-  name = "Keras"
+  name = "Machine Learning"
+#  description = "100%"  
+  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Deep Learning"
+#  description = "10%"
+
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Computer Vision"
 #  description = "10%"
 
 
