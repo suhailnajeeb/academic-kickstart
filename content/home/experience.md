@@ -17,6 +17,27 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Lecturer"
+  company = "East West University"
+  company_url = "https://fse.ewubd.edu/electronics-communications-engineering/faculty-view/suhailnajeeb"
+  location = "Dhaka, Bangladesh"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """
+
+  Courses Instructed:
+
+  * ETE 105: Computer Fundamentals & Programming
+  * ICE 107: Object Oriented Programming
+  * ETE 302: Computer Communications & Networking
+  * ETE/ICE 470: Applied Numerical Methods
+  * ETE/ICE 472: Speech & Image Processing
+
+  """
+
+
 [[experience]]
   title = "CEO"
   company = "GenCoin"
