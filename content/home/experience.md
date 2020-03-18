@@ -37,6 +37,16 @@ date_format = "Jan 2006"
 
   """
 
+[[experience]]
+  title = "Instructor"
+  company = "Satyen Bose Science Club, BUET"
+  company_url = "https://www.linkedin.com/company/satyen-bose-science-club-buet/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2017-15-11"
+  date_end = "2018-12-05"
+  description = """
+  Course on Python & Data Science
+  """
 
 [[experience]]
   title = "CEO"
