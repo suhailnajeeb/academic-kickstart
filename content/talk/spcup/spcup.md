@@ -6,7 +6,7 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 #time_start = 2018-08-20T11:10:00
-time_start = 2019-08-27
+time_start = 2019-27-08T16:00:00
 #time_end = 2030-06-01T15:00:00
 
 # Abstract and optional shortened version.
@@ -54,4 +54,4 @@ caption = "My caption :smile:"
 
 +++
 
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
+<img src = "/img/spcup.jpg">
