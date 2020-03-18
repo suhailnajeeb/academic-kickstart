@@ -10,9 +10,9 @@ date: 2016-13-08
 
 AI or Artificial Intelligence had been a buzz word of the twenty first century in its early days. However, somehow the world seemed to find more interesting stuff to buzz about. The likes of smart phones, tablets, thinner laptops and cool hardware, gaming, social networking platforms, virtual reality.. the list goes on. All of these had us busy and obsessed while the catch of doing something genuinely cool with AI seemed to be a far cry or not worth much, at least for the time being. However, as of late, it seems like the gorgeous butterfly, done with its [Metamorphosis](https://www.zmescience.com/ecology/animals-ecology/how-caterpillar-turn-butterfly-0534534/), is coming out of its cocoon. 
 
-![alttext] (/static/corona.jpg)
+![alttext] ("/corona.jpg")
 
-<img src="/corona.jpg" />
+<img src="/img/ai-2016/metamorphosis.jpg" />
 
 ## AI
 
@@ -21,6 +21,8 @@ So, what makes AI so spectacular and noteworthy? Before we can understand the si
 ## Evolution of AI
 
 In its earlier days, artificial intelligence started off with simple logistic [regressions](https://en.wikipedia.org/wiki/Regression_analysis) to fit data for either classification or prediction related problems. These regression models were at the core of the [machine learning](https://en.wikipedia.org/wiki/Machine_learning) algorithms. However, these simple regression models failed at performing complex tasks with higher degrees of freedom. So machine learning algorithms soon had hit a wall. A new sort of learning algorithm had to be introduced. The new model approached machine learning in a completely different way. Instead of searching for direct relationships between sets of data, the computation would be broken into different hidden layers which would be used to determine a complex set of interrelation between the input data. The input data had to go through multiple layers of computation before finally reaching a reasonable prediction. Further development of [deep learning](https://en.wikipedia.org/wiki/Deep_learning) algorithms later seemed to mimic the human brain or neural system. These sorts of networks are often referred to as [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network).
+
+<img src = "img/ai-2016/neural.gif">
 
 ## Overcoming Barriers
 
