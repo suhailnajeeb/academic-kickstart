@@ -15,7 +15,7 @@ role: Lecturer
 # Organizations/Affiliations
 organizations:
 - name: East West University
-  url: ""
+  url: "https://www.ewubd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed computer vision, data science & deep learning.
