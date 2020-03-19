@@ -50,8 +50,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "featured.jpg"
-caption = "My caption :smile:"
+caption = ""
 
 +++
-
-<img src = "/img/spcup.jpg">
