@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed computer vision, data science & deep learning.
+bio: Suhail Najeeb is a Lecturer at the Department of Electronics & Communications Engineering, East West University. He is an avid reseracher and his research interests include Artificial Intelligence, Computer vision & Deep Learning.
 
 interests:
 - Artificial Intelligence
