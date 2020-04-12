@@ -18,22 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Suhail Najeeb is a Lecturer at the Department of Electronics & Communications Engineering, East West University. His research interests include Artificial Intelligence, Computer vision & Deep Learning.
+bio: Suhail Najeeb is a Lecturer at the Department of Electronics & Communications Engineering, East West University. His research interests include Data Science, Machine Learning, Deep Learning & Computer vision.
 
 interests:
-- Artificial Intelligence
-- Computer Vision
+- Data Science
+- Machine Learning
 - Deep Learning
+- Computer vision
+- Artificial Intelligence
 
 education:
   courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-  - course: Msc in Electrical & Electronic Engineering
+  - course: M.Sc. in Electrical & Electronic Engineering
     institution: Bangladesh Unviersity of Engineering & Technology
     year: (Ongoing)
-  - course: BSc in Electrical & Electronic Engineering
+  - course: B.Sc. in Electrical & Electronic Engineering
     institution: Bangladesh University of Engineering & Technology
     year: 2018
 
@@ -77,4 +79,4 @@ user_groups:
 
 
 
-I'm Suhail Najeeb, currently a lecturer at the Department of ECE, East West University. I graduated in EEE from Bangladesh University of Engineering & Technology back in 2018. My recent research interests inlcude Data Science, Machine Learning, Deep Learning & Computer Vision. I like to work with data from diverse domains and am also a freelance data scientist.
+I'm Suhail Najeeb, currently a lecturer at the Department of ECE, East West University. I graduated in EEE from Bangladesh University of Engineering & Technology back in 2018. My recent research interests inlcude Data Science, Machine Learning, Deep Learning & Computer Vision. I love to work with data from diverse domains as a Freelance Data Scientist.
