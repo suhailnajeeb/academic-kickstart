@@ -3,8 +3,10 @@ title: AI - Where Do We Stand Today?
 featured: true
 authors:
 - admin
-date: 2016-13-08
-lastmod: 2016-13-08
+# date: 01-01-2000
+# lastmod: 2016-08-20
+Date: 2016-08-13
+
 ---
 
 ## Intro
