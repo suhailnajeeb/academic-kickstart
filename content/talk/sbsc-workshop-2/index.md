@@ -53,3 +53,19 @@ image = "featured.jpg"
 caption = ""
 
 +++
+
+## Participants:
+
+<img src="course_1.jpg" />
+
+## Class in progress:
+
+<img src="course_2.jpg" />
+
+## The Pizza Classifier!
+
+<img src="course_3.jpg" />
+
+## Hands-on Q & A Session:
+
+<img src="course_4.jpg" />
