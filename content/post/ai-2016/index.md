@@ -9,6 +9,8 @@ Date: 2016-08-13
 
 ---
 
+<div style = "text-align: justify">
+
 ## Intro
 
 AI or Artificial Intelligence had been a buzz word of the twenty first century in its early days. However, somehow the world seemed to find more interesting stuff to buzz about. The likes of smart phones, tablets, thinner laptops and cool hardware, gaming, social networking platforms, virtual reality.. the list goes on. All of these had us busy and obsessed while the catch of doing something genuinely cool with AI seemed to be a far cry or not worth much, at least for the time being. However, as of late, it seems like the gorgeous butterfly, done with its [Metamorphosis](https://www.zmescience.com/ecology/animals-ecology/how-caterpillar-turn-butterfly-0534534/), is coming out of its cocoon. 
@@ -80,3 +82,5 @@ An event of late has taken AI researchers by aw, when Google’s general purpose
 ## Wrap Up
 
 Artificial intelligence is by far the most significant feat of humans in the era of information and technology. However, the coin has both sides to look at. It is true that artificial intelligence opens up the world to new possibilities. AI can offer a helping hand to excel and improve in every possible way humanity can or cannot imagine. However, the idea of a general purpose intelligence that is capable of improving itself also poses a threat to humanity as well. Any self-improving system runs the risk of achieving the state of accelerated returns – as predicted by researchers which might lead to a super-intelligence greater than us human beings ourselves. However, we are far from the point to judge if this might be a probability or not, but in the mean time I would agree with Dagago Altraide to say that I am ‘Cautiously Optimistic’ about AI. Whether or not AI might pose a threat to humanity is beyond the scope of this article, maybe a story of another day.
+
+</div>
