@@ -1,9 +1,11 @@
 ---
 title: SQL Fundamentals (Part 1/3)
-Date: 2020-04-13
+Date: 2020-04-16
 authors:
 - admin
-Draft: true
+Draft: false
+
+---
 
 ---
 
@@ -13,17 +15,29 @@ While recently learning the basics of SQL, I created a bunch of notes for refere
 - [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
 
 The course on [cognitiveclass.ai](https://cognitiveclass.ai) is free and  you could follow the materials if you want. The coursera course is part of coursera's
-[IBM Data Science Professional Certificate]() Program and provides a brief introduction to SQL for data science.
+[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) Program and provides a brief introduction to SQL for data science.
 
-The following examples aren't really descriptive if that is something you are looking for. Its mostly a collection of the basic syntaxes with some examples. Part 1 contains a summary of the following topics:
+The following examples aren't really descriptive if that is something you are looking for. Its mostly a collection of the basic syntaxes with some examples.
+
+---
+
+Part 1 contains a summary of the following topics:
 
 - Creating Tables:
     - CREATE statement
 - Queries:
     - SELECT statement
     - WHERE clause
-- Useful functions for query-ing:
-    - 
+- Useful functions for query:
+    - COUNT function
+    - DISTINCT function
+    - LIMIT function
+- Database Modification Statements:
+    - INSERT statement
+    - UPDATE statement
+    - DELETE statement
+
+---
 
 ## 5 Basic SQL Commands: 
 
@@ -39,6 +53,8 @@ The following examples aren't really descriptive if that is something you are lo
     * Define, Change or Drop Data
 * DML Statements (Data Manipulation Language)
     * Read and Modify Data
+
+---
 
 # Creating Tables:
 
@@ -90,6 +106,8 @@ create table COUNTRY (
     NAME varchar(60)
     );
 ```
+
+---
 
 # Select Statement:
 
@@ -145,6 +163,7 @@ select * from COUNTRY where ID <5;
 ```sql
 select * from COUNTRY where CCODE = 'CA';
 ```
+---
 
 # Count Function:
 
@@ -163,6 +182,7 @@ Rows in MEDALS table where the country is Canada
 select COUNT(*) from MEDALS
     where COUNTRY = 'CANADA';
 ```
+---
 
 # Distinct Function:
 
@@ -181,6 +201,7 @@ List of unique Countries that received GOLD medals.
 select DISTINCT COUNTRY from MEDALS
     where MEDALTYPE = 'GOLD';
 ```
+---
 
 # Limit:
 
@@ -200,6 +221,8 @@ Retrieve 5 rows in the MEDALS table for the year 2018
 select * from MEDALS
     where YEAR = 2018 limit 5
 ```
+
+---
 
 # Insert Statement: 
 
@@ -234,6 +257,8 @@ INSERT INTO AUTHOR
     ('A2', 'DHONG', 'BAUL', 'BFD@ABC.COM', 'TORONTO', 'CA');
 ```
 
+---
+
 # Update Statement:
 
 - alter the data
@@ -255,6 +280,7 @@ UPDATE AUTHOR
         FIRSTNAME = SUHAIL
     WHERE AUTHOR_ID = 2
 ```
+---
 
 # Delete Statement:
 
@@ -271,3 +297,5 @@ DELETE FROM tablename
 DELETE FROM AUTHOR
     WHERE AUTHOR_ID IN('A2','A3')
 ```
+
+---
