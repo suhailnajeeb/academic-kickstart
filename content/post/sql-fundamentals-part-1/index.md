@@ -20,7 +20,7 @@ While recently learning the basics of SQL, I created a bunch of notes for refere
 - [SQL and Relational Databases 101](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
 - [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
 
-The course on [cognitiveclass.ai](https://cognitiveclass.ai) is free and  you could follow the materials if you want. The coursera course is part of coursera's
+The course on [cognitiveclass.ai](https://cognitiveclass.ai) is free and  you could follow the materials if you want. SQL for Data Science course is part of coursera's
 [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) Program and provides a brief introduction to SQL for data science.
 
 The following examples aren't really descriptive if that is something you are looking for. Its mostly a collection of the basic syntaxes with some examples. This is the [link](https://github.com/suhailnajeeb/learning-sql) to the corresponding github repository.
