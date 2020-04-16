@@ -6,8 +6,12 @@ authors:
 Draft: false
 
 ---
-
-<img src="/img/sql/database.jpg">
+<figure>
+    <img src="/img/sql/database.jpg">
+    <a href = "https://www.pexels.com/photo/bandwidth-close-up-computer-connection-1148820/" target = "_blank">
+    <figcaption>Photo by Panumas Nikhomkhai from Pexels</figcaption>
+    </a>
+</figure>
 
 ---
 
@@ -19,25 +23,25 @@ While recently learning the basics of SQL, I created a bunch of notes for refere
 The course on [cognitiveclass.ai](https://cognitiveclass.ai) is free and  you could follow the materials if you want. The coursera course is part of coursera's
 [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) Program and provides a brief introduction to SQL for data science.
 
-The following examples aren't really descriptive if that is something you are looking for. Its mostly a collection of the basic syntaxes with some examples.
+The following examples aren't really descriptive if that is something you are looking for. Its mostly a collection of the basic syntaxes with some examples. This is the [link](https://github.com/suhailnajeeb/learning-sql) to the corresponding github repository.
 
 ---
 
-Part 1 contains a summary of the following topics:
+**Part 1** contains a summary of the following topics:
 
 - Creating Tables:
-    - CREATE statement
+    - CREATE
 - Queries:
-    - SELECT statement
-    - WHERE clause
+    - SELECT
+    - WHERE
 - Useful functions for query:
-    - COUNT function
-    - DISTINCT function
-    - LIMIT function
-- Database Modification Statements:
-    - INSERT statement
-    - UPDATE statement
-    - DELETE statement
+    - COUNT
+    - DISTINCT
+    - LIMIT
+- DML Statements:
+    - INSERT
+    - UPDATE
+    - DELETE
 
 ---
 
@@ -301,3 +305,5 @@ DELETE FROM AUTHOR
 ```
 
 ---
+
+*To be continued...*
