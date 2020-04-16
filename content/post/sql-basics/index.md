@@ -7,6 +7,8 @@ Draft: false
 
 ---
 
+<img src="/img/sql/database.jpg">
+
 ---
 
 While recently learning the basics of SQL, I created a bunch of notes for reference. You will find that these notes are parallel to the following online courses:
