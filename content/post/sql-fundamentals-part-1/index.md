@@ -4,8 +4,10 @@ Date: 2020-04-16
 authors:
 - admin
 Draft: false
+tags: ["SQL", "Data", "Databases"]
 
 ---
+
 <figure>
     <img src="/img/sql/database.jpg">
     <a href = "https://www.pexels.com/photo/bandwidth-close-up-computer-connection-1148820/" target = "_blank">
@@ -23,8 +25,7 @@ While recently learning the basics of SQL, I created a bunch of notes for refere
 The course on [cognitiveclass.ai](https://cognitiveclass.ai) is free and  you could follow the materials if you want. SQL for Data Science course is part of coursera's
 [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) Program and provides a brief introduction to SQL for data science.
 
-The following examples aren't really descriptive if that is something you are looking for. Its mostly a collection of the basic syntaxes with some examples. This is the [link](https://github.com/suhailnajeeb/learning-sql) to the corresponding github repository.
-
+The following statemetns aren't really descriptive if that is something you are looking for. Its mostly a collection of the basic syntaxes with some examples. This is the [link](https://github.com/suhailnajeeb/learning-sql) to the corresponding github repository. You will find some relevant example sql queries in the [Problems](https://github.com/suhailnajeeb/learning-sql/tree/master/problems) folder of the repository.
 ---
 
 **Part 1** contains a summary of the following topics:
@@ -305,5 +306,8 @@ DELETE FROM AUTHOR
 ```
 
 ---
+You can find some relevant SQL queries [here](https://github.com/suhailnajeeb/learning-sql/blob/master/problems/problemset_1.sql).
 
-*To be continued...*
+- [Link](/post/sql-fundamentals-part-2) to **Part 2**
+
+*To be continued ..*
