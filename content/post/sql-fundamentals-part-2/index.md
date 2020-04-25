@@ -20,7 +20,7 @@ tags: ["SQL", "Data", "Databases"]
 This is the Part 2 of my SQL Fundamentals series, continuing from [Part 1](/post/sql-fundamentals-part-1) where I discussed Creating Tables, Querying with SELECT and WHERE, introduced some useful functions like COUNT, DISTINCT, LIMIT and some DML statements - INSERT, UPDATE, DELETE Etc. Part 2 of this series covers the following topics:
 
 - Matching String Patterns
-- Rangeds
+- Ranges
 - Sets
 - Sorting
 - Eliminating Duplicates
@@ -150,5 +150,6 @@ select country, count(country) as count
 You can find some relevant SQL queries [here](https://github.com/suhailnajeeb/learning-sql/blob/master/problems/problemset_2.sql).
 
 - [Link](/post/sql-fundamentals-part-1) to **Part 1**
+- [Link](/post/sql-fundamentals-part-3) to **Part 3**
 
 *To be continued ..*
