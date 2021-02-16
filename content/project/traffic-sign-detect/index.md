@@ -6,7 +6,7 @@ summary: "We propose a Traffic Sign Detection & Segmentation pipeline. A faster 
 authors: ["Shahruk Hossain", "Suhail Najeeb"]
 tags: ["traffic-sign-recognition", "frcnn", "cnn","deep-learning","computer-vision","video"]
 categories: ["computer-vision"]
-date: 2017-09-17
+date: 2021-01-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/suhailnajeeb/traffic-sign-detection-vip2017"

@@ -14,6 +14,23 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+#  description = "100%"  
+  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Deep Learning"
+#  description = "10%"
+
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Computer Vision"
+#  description = "10%"
 
 [[feature]]
   icon = "python"
@@ -51,23 +68,7 @@ subtitle = ""
   name = "Tensorflow"
 #  description = "10%"
 
-[[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Machine Learning"
-#  description = "100%"  
-  
-[[feature]]
-  icon = "brain"
-  icon_pack = "fas"
-  name = "Deep Learning"
-#  description = "10%"
 
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Computer Vision"
-#  description = "10%"
 
 
 +++

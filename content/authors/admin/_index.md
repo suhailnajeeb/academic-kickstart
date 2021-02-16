@@ -14,11 +14,12 @@ role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: East West University
+- name: East West University, Dhaka, Bangladesh
   url: "https://www.ewubd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Suhail Najeeb is a Lecturer at the Department of Electronics & Communications Engineering, East West University. His research interests include Deep Learning, Computer Vision & Biomedical Signal Processsing.
+
 
 interests:
 - Computer vision
@@ -33,10 +34,11 @@ education:
 #    year: 2012
   - course: M.Sc. in Electrical & Electronic Engineering
     institution: Bangladesh Unviersity of Engineering & Technology
-    year: Expected Graduation - 2021
+    year: Graduation Expected - June 2021
   - course: B.Sc. in Electrical & Electronic Engineering
     institution: Bangladesh University of Engineering & Technology
-    year: 2018
+    year: Graduation - October 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -6,7 +6,7 @@ summary: "We propose a pipeline for lung tumor detection and segmentation on the
 authors: ["Shahruk Hossain", "Suhail Najeeb"]
 tags: ["lung-tumor-segmentation", "segmentation", "dilated-cnn","deep-learning","computer-vision","ct-scan"]
 categories: ["computer-vision"]
-date: 2018-10-07
+date: 2020-10-07
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/suhailnajeeb/lungseg-vip2018"

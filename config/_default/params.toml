@@ -99,7 +99,7 @@ directions = "Enter the main building, take the left to Block C, Take the lift t
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Sunday 10:10am to 11:40am", "Monday 11:50am to 1:20pm", "Tuesday 11:50am to 1:20pm", "Wednesday 11:50am to 3:00pm", "Thursday 10:10am to 11:40am"]
+office_hours = ["Sunday 1:30pm to 3:00pm", "Monday 3:10pm to 4:40pm", "Tuesday 1:30pm to 3:00pm", "Wednesday 11:50am to 1:20pm", "Thursday 10:10am to 11:40am"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/suhailnajeeb"

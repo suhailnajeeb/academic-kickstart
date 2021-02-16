@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  Courses Instructed:
+  Theory & Lab Courses Instructed:
 
   * ETE 105: Computer Fundamentals & Programming
   * ICE 107: Object Oriented Programming
