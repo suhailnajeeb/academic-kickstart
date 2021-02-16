@@ -34,9 +34,9 @@ subtitle = ""
 #  description = "10%"
 
 [[feature]]
-  icon = "microscope"
+  icon = "lightbulb"
   icon_pack = "fas"
-  name = "Scikit-Learn"
+  name = "PyTorch"
 #  description = "10%"
 
 [[feature]]
