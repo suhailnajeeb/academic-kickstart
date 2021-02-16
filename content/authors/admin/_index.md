@@ -15,17 +15,16 @@ role: Lecturer
 # Organizations/Affiliations
 organizations:
 - name: East West University
-  url: ""
+  url: "https://www.ewubd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Suhail Najeeb is a Lecturer at the Department of Electronics & Communications Engineering, East West University. His research interests include Data Science, Machine Learning, Deep Learning & Computer vision.
+bio: Suhail Najeeb is a Lecturer at the Department of Electronics & Communications Engineering, East West University. His research interests include Deep Learning, Computer Vision & Biomedical Signal Processsing.
 
 interests:
-- Data Science
-- Machine Learning
-- Deep Learning
 - Computer vision
-- Artificial Intelligence
+- Deep Learning
+- Biomedical Signal Processing
+- Machine Learning
 
 education:
   courses:
@@ -34,7 +33,7 @@ education:
 #    year: 2012
   - course: M.Sc. in Electrical & Electronic Engineering
     institution: Bangladesh Unviersity of Engineering & Technology
-    year: (Ongoing)
+    year: Expected Graduation - 2021
   - course: B.Sc. in Electrical & Electronic Engineering
     institution: Bangladesh University of Engineering & Technology
     year: 2018
@@ -76,7 +75,4 @@ user_groups:
 ---
 
 
-
-
-
-I'm Suhail Najeeb, currently a lecturer at the Department of ECE, East West University. I graduated in EEE from Bangladesh University of Engineering & Technology back in 2018. My recent research interests inlcude Data Science, Machine Learning, Deep Learning & Computer Vision. I love to work with data from diverse domains as a Freelance Data Scientist.
+<p style="text-align: justify;">I am Suhail Najeeb, currently working as a lecturer at the Departmnet of ECE, East West University. I am also a final year Master's Student at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh, where I have also completed my undergraduate studies in Electrical and Electronic Engineering. During my last couple of years as an undergraduate student, I came in touch with the field of Computer Vision and Deep Learning when I participated in the IEEE VIP Cup 2017 & 2018. Since then, I have focused my interests towards Biomedical signal processing, Computer vision and Deep learning. Right now I am pursuing my Master's thesis on Multi-Modal Biomedical Image Segmentation.</p>
