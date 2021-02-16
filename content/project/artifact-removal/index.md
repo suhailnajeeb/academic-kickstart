@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cancer Classification from Single-Cell RNA Sequencing Data"
-summary: "Experimented the effectiveness of 1D Convolutional Neural Networks & 2D Dilated Convolutional Neural Networks on classifying diseases from the TCGA pan-cancer dataset. Our proposed methodology produced 95.6% accuracy over the TCGA RNASeq dataset."
-authors: ["Suhail Najeeb","Shahruk Hossain"]
-tags: ["tcga", "rnaseq", "dilated-cnn","deep-learning","genomics"]
+title: "Removal of Artifacts from Vehicle Mounted Images using Convolutional Autoencoders"
+summary: "Artifacts due to environmental and device factors are commonplace while acquiring vehicle mounted images. This project aims to ameliorate the effects of different artifacts like rain, snow and haze on vehicle mounted image sequences which should lead to better performance of computer vision tasks like detection and classification."
+authors: ["Suhail Najeeb"]
+tags: ["artifact removal", "image-enhancement", "autoencoder","deep-learning","computer-vision"]
 categories: ["computer-vision"]
-date: 2020-01-01
+date: 2020-11-21
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/suhailnajeeb/tcga-cancer-predict"
+external_link: "https://github.com/suhailnajeeb/cure-tsd-revisit"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,9 +27,9 @@ links:
   icon_pack: fab
   icon: twitter
 
-url_code: "https://github.com/suhailnajeeb/tcga-cancer-predict"
+url_code: "https://github.com/suhailnajeeb/cure-tsd-revisit"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://github.com/suhailnajeeb/cure-tsd-revisit/blob/main/Project%20Presentation.pdf"
 url_video: ""
 
 # Slides (optional).
