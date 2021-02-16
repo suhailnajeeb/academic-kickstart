@@ -309,5 +309,6 @@ DELETE FROM AUTHOR
 You can find some relevant SQL queries [here](https://github.com/suhailnajeeb/learning-sql/blob/master/problems/problemset_1.sql).
 
 - [Link](/post/sql-fundamentals-part-2) to **Part 2**
+- [Link](/post/sql-fundamentals-part-3) to **Part 2**
 
 *To be continued ..*
