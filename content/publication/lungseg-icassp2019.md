@@ -1,6 +1,6 @@
 +++
 title = "A Pipeline for Lung Tumor Detection and Segmentation from CT Scans Using Dilated Convolutional Neural Networks"
-date = "2018-04-16"
+date = "2019-05-13"
 authors = ["Shahruk Hossain", "Suhail Najeeb", "Asif Shahriyar", "Zaowad R. Abdullah", "M. Ariful Haque"]
 publication_types = ["1"]
 publication = "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
