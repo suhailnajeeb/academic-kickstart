@@ -34,6 +34,7 @@ date_format = "Jan 2006"
   * ETE 302: Computer Communications & Networking
   * ETE/ICE 470: Applied Numerical Methods
   * ETE/ICE 472: Speech & Image Processing
+  * ETE/ICE 401: VLSI Circuit Design
 
   """
 
